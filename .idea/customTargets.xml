@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CLionExternalBuildManager">
+    <target id="460a62fd-98aa-450c-8000-c864acd6d3db" name="Debug" defaultType="TOOL">
+      <configuration id="55118ffb-97ee-4e57-90d6-5ca723b9fa85" name="Debug" toolchainName="STM32" />
+    </target>
+  </component>
+</project>
